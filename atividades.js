@@ -289,16 +289,3 @@ switch (escolha) {
 
   default: console.log("Opção inválida.");
 }
-
-//val km = media / 1000
-//    println("${media} em KM é ${km}")
-//    val hm = media / 100
-//    println("${media} em Hm é ${hm}")
-//    val dam = media / 10
-//    println("${media} em Dam é ${dam}")
-//    val dm = media * 10
-//    println("${media} em Dm é ${dm}")
-//    val cm = media * 100
-//    println("${media} em Cm é ${cm}")
-//    val mm = media * 1000
-//    println("${media} em mm é ${mm}")
